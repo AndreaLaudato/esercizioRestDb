@@ -12,6 +12,8 @@ public class EsercizioRestDBApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EsercizioRestDBApplication.class, args);
+
+
 	}
 
 }
